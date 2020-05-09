@@ -1,0 +1,10 @@
+C:\Users\Asus\Documents\Cours Esilv\POO Avancé\Club de Tennis_ HELALI Nader\Tennis_Club\Tennis_Club\obj\Debug\netcoreapp2.1\Tennis_Club.csprojAssemblyReference.cache
+C:\Users\Asus\Documents\Cours Esilv\POO Avancé\Club de Tennis_ HELALI Nader\Tennis_Club\Tennis_Club\obj\Debug\netcoreapp2.1\Tennis_Club.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\Cours Esilv\POO Avancé\Club de Tennis_ HELALI Nader\Tennis_Club\Tennis_Club\obj\Debug\netcoreapp2.1\Tennis_Club.AssemblyInfo.cs
+C:\Users\Asus\Documents\Cours Esilv\POO Avancé\Club de Tennis_ HELALI Nader\Tennis_Club\Tennis_Club\bin\Debug\netcoreapp2.1\Tennis_Club.deps.json
+C:\Users\Asus\Documents\Cours Esilv\POO Avancé\Club de Tennis_ HELALI Nader\Tennis_Club\Tennis_Club\bin\Debug\netcoreapp2.1\Tennis_Club.runtimeconfig.json
+C:\Users\Asus\Documents\Cours Esilv\POO Avancé\Club de Tennis_ HELALI Nader\Tennis_Club\Tennis_Club\bin\Debug\netcoreapp2.1\Tennis_Club.runtimeconfig.dev.json
+C:\Users\Asus\Documents\Cours Esilv\POO Avancé\Club de Tennis_ HELALI Nader\Tennis_Club\Tennis_Club\bin\Debug\netcoreapp2.1\Tennis_Club.dll
+C:\Users\Asus\Documents\Cours Esilv\POO Avancé\Club de Tennis_ HELALI Nader\Tennis_Club\Tennis_Club\bin\Debug\netcoreapp2.1\Tennis_Club.pdb
+C:\Users\Asus\Documents\Cours Esilv\POO Avancé\Club de Tennis_ HELALI Nader\Tennis_Club\Tennis_Club\obj\Debug\netcoreapp2.1\Tennis_Club.dll
+C:\Users\Asus\Documents\Cours Esilv\POO Avancé\Club de Tennis_ HELALI Nader\Tennis_Club\Tennis_Club\obj\Debug\netcoreapp2.1\Tennis_Club.pdb
